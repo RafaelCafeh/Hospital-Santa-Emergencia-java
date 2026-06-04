@@ -1,2 +1,2 @@
-# Hospital-Santa-Emerg-ncia-java
+# Hospital-Santa-Emergencia-java
 Projeto em Java + MySql
